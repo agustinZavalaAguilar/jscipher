@@ -3,7 +3,7 @@
 
 ## A piece of code that ciphers messages using the *shift* method
 
-###Features
+### Features
 
 - Takes a string and a shift number
 - Returns an uppercase, encoded message
