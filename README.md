@@ -9,6 +9,7 @@
 - Returns an uppercase, encoded message
 - Will only encode characters from a-z, leaving the rest as they are
 - Takes an encoded string and a key shift number
-- Returns  an decoded string
+- Returns  a decoded string
 
-I'd appreciate your input!
+Thank you for reading!
+I'd appreciate your input :-)
